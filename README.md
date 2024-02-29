@@ -1,6 +1,6 @@
 <div>
-  <img src="https://github-readme-stats.vercel.app/api?username=gursi26&show_icons=true&locale=en" style=" height: 200px;" alt="gursi26" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gursi26&" style="height: 200px;" alt="gursi26" />
+  <img src="https://github-readme-stats.vercel.app/api?username=gursi26&show_icons=true&locale=en" style=" height: 180px;" alt="gursi26" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gursi26&" style="height: 180px;" alt="gursi26" />
 </div>
 
 <!--
